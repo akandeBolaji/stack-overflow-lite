@@ -1,2 +1,2 @@
 # stack-overflow-lite
-A very basic and lite version of stack overfloe web
+A very basic and lite version of stack overflow web
